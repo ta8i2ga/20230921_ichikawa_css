@@ -43,15 +43,15 @@ nav {
 
 .firstview__title {
     position: absolute;
-    top: 630px;
-    font-size: 70px;
+    top: 32vmax;
+    font-size: 5vmax;
     color: #000;
     z-index: 110;
 }
 
 .firstview__img {
     position: absolute;
-    top: 11rem;
+    top: 10vmax;
     left: 50%;
     width: 50%;
     height: auto;
@@ -60,9 +60,9 @@ nav {
 
 .firstview__box {
     position: absolute;
-    top: 700px;
+    top: 37vmax;
     background-color: darkblue;
-    width: 80%;
-    height: 15rem;
+    width: 75%;
+    height: 12vmax;
     z-index: 10;
 }
